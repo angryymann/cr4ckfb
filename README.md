@@ -7,8 +7,8 @@ This fb crack script is still in testing.
 if there is a problem
 contact me on facebook
 ```
-### The Ezy Method
-```INSTALASION
+### INSTALASION (The Ezy Method)
+```
 $ apt upgrade && apt update
 $ apt install python
 $ apt install python2
