@@ -20,7 +20,7 @@ $ apt install git
 $ git clone https://github.com/angryymann/cr4ckfb
 $ cd cr4ckfb
 $ ls
-$ python angryymann.py.py
+$ python angryymann.py
 ```
 Project created by <a href="https://www.facebook.com/profile.php?id=100078689373767">Диҩяүү Мдии</a> to make it public
     <br>
