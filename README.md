@@ -13,10 +13,10 @@ $ pkg upgrade && pkg update
 $ apt install python
 $ apt install python2
 $ apt install git
-$ git clone https://github.com/kobustorghostteam/AdminFinder
-$ cd AdminFinder
+$ git clone https://github.com/angryymann/cr4ckfb
+$ cd cr4ckfb
 $ ls
-$ python2 adminfinder.py
+$ python angryymann.py.py
 ```
 Project created by <a href="https://www.facebook.com/profile.php?id=100078689373767">Диҩяүү Мдии</a> to make it public
     <br>
