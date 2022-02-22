@@ -9,9 +9,13 @@ contact me on facebook
 ```
 ### The Ezy Method
 ```INSTALASION
-$ pkg upgrade && pkg update
+$ apt upgrade && apt update
 $ apt install python
 $ apt install python2
+$ pip install futures
+$ pip install requests
+$ pip install bs4
+$ pip install mechanize
 $ apt install git
 $ git clone https://github.com/angryymann/cr4ckfb
 $ cd cr4ckfb
